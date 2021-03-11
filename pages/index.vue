@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        tictactry, I'm trying 92pm:
+        Hey, this is kinda cool. [tictactry]
       </h1>
       <div class="links">
         <a
