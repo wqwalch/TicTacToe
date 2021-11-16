@@ -5,6 +5,9 @@
       <h1 class="title">
         Hey, this is kinda cool. [tictactry]
       </h1>
+      <h1 class="title">
+        Update from github editor
+      </h1>      
       <div class="links">
         <a
           href="https://nuxtjs.org/"
